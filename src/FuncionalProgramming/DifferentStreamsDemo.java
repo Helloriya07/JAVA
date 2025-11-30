@@ -39,7 +39,7 @@ public class DifferentStreamsDemo {
 //        integerStream.forEach(System.out::println);
 
         // FROM FILES
-        Stream<String> filesstream = Files.lines(Path.of("PAth"));
+//        Stream<String> filesstream = Files.lines(Path.of("PAth"));
 
         //Empty Stream
         Stream<String> emptystream = Stream.empty();

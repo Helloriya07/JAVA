@@ -1,4 +1,4 @@
-package FuncionalProgramming;
+package FuncionalProgramming.FunctionDefault;
 
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;

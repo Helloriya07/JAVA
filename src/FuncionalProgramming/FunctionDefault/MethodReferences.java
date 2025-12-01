@@ -1,9 +1,7 @@
-package FuncionalProgramming;
+package FuncionalProgramming.FunctionDefault;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 
 public class MethodReferences {
     public static void main(String[] args) {

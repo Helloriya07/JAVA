@@ -1,4 +1,4 @@
-package FuncionalProgramming;
+package FuncionalProgramming.FunctionDefault;
 
 @FunctionalInterface
 interface BookAction{

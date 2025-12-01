@@ -1,8 +1,6 @@
-package FuncionalProgramming;
+package FuncionalProgramming.Streams;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;

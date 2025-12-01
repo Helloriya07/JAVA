@@ -1,7 +1,7 @@
 package ExceptionHandling;
 
 
- class CustomException extends Exception {
+ class  CustomException extends Exception {
     public CustomException(String message) {
         super(message);
 

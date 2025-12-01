@@ -1,4 +1,4 @@
-package FuncionalProgramming;
+package FuncionalProgramming.FunctionDefault;
 
 import java.util.function.Function;
 //Represents a function that accepts one argument and produces a result.

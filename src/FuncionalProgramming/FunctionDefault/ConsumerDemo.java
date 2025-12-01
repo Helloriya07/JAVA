@@ -1,4 +1,4 @@
-package FuncionalProgramming;
+package FuncionalProgramming.FunctionDefault;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package FuncionalProgramming.BookListing;
+package FuncionalProgramming.Streams.BookListing;
 
 import java.util.Arrays;
 import java.util.Comparator;

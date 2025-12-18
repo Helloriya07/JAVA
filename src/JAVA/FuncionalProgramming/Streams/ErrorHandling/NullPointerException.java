@@ -4,13 +4,34 @@ import java.util.Optional;
 
 public class NullPointerException {
     public static void main(String[] args) {
-        String name =null;
-        if(name!=null) {
+        String name ="yuu";
+//        System.out.println(name.length());
+        if(name!=null){
             System.out.println(name.length());
         }
-            else{
-            System.out.println("No name");
+        else{
+            System.out.println("null value present");
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
 
 
 
@@ -51,7 +72,7 @@ public class NullPointerException {
                 ()->  new RuntimeException("value not found")
                 );
         System.out.println(newRes);
-
+*/
 
 
     }
